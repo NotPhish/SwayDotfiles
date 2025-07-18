@@ -11,7 +11,7 @@ What you'll need:
 
 To install the packages, just copy this command:
 
-    - `sudo pacman -Sy sway waybar swaybg`
+    `sudo pacman -Sy sway waybar swaybg`
 
 If you want to use the Maple Mono fonts:
 
