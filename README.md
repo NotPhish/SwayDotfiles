@@ -8,10 +8,11 @@ What you'll need:
     - Sway (pretty obvious)
     - Waybar
     - Swaybg (For wallpapers)
+    - Grim (for screenshots)
 
 To install the packages, just copy this command:
 
-    - sudo pacman -Sy sway waybar swaybg
+    - sudo pacman -Sy sway waybar swaybg grim
 
 If you want to use the Maple Mono fonts:
 
