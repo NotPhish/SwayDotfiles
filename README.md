@@ -13,15 +13,15 @@ To install the packages, just copy this command:
 
     - `sudo pacman -Sy sway waybar swaybg`
 
-    If you want to use the Maple Mono fonts:
+If you want to use the Maple Mono fonts:
 
     1. Download the normal and NF Fonts from the Repository
-        - https://github.com/subframe7536/maple-font/releases/tag/v7.4
+            - https://github.com/subframe7536/maple-font/releases/tag/v7.4
 
-    2. Unpack the fonts via your file browser and move them to 
-    `/usr/local/share/fonts/`, here the command:
-        - `sudo mv /path/to/font /usr/local/share/fonts/`
-        (don't forget the sudo!)
+    2. Unpack the fonts via your file browser and move them to
+        `/usr/local/share/fonts/`, here the command:
+            - `sudo mv /path/to/font /usr/local/share/fonts/`
+            (don't forget the sudo!)
 
 # Important
 
