@@ -3,6 +3,7 @@
 These are my current dotfiles for Sway WM, duh....
 
 What you'll need:
+    
     - Maple Mono Font
     - Maple Mono NF Font
     - Sway (pretty obvious)
@@ -16,13 +17,13 @@ To install the packages, just copy this command:
 
 If you want to use the Maple Mono fonts:
 
-    1. Download the normal and NF Fonts from the Repository
-            - https://github.com/subframe7536/maple-font/releases/tag/v7.4
+1. Download the normal and NF Fonts from the Repository
+    - https://github.com/subframe7536/maple-font/releases/tag/v7.4
 
-    2. Unpack the fonts via your file browser and move them to
-        `/usr/local/share/fonts/`, here the command:
-            - `sudo mv /path/to/font /usr/local/share/fonts/`
-            (don't forget the sudo!)
+2. Unpack the fonts via your file browser and move them to
+   `/usr/local/share/fonts/`, here the command:
+       - `sudo mv /path/to/font /usr/local/share/fonts/`
+          (don't forget the sudo!)
 
 # Important
 
